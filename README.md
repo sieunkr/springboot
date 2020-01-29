@@ -92,6 +92,7 @@
 - [소프트웨어 개발의 지혜(2) - 기술부채](https://brunch.co.kr/@springboot/173)
 - [웹서비스 백엔드 애플리케이션 아키텍처(1)-클린아키텍처](https://brunch.co.kr/@springboot/228)
 - [Cache-Aside Pattern in Redis](https://brunch.co.kr/@springboot/151)
+- 소프트웨어 개발의 지혜(3) 작성 중..
 
 
 ## 8. JPA
