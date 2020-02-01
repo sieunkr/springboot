@@ -85,6 +85,7 @@
 - [Spring Assertion](https://brunch.co.kr/@springboot/244)
 - [개발자를 위한 A/B 테스트 해시 샘플링](https://brunch.co.kr/@springboot/283)
 - spring cloud dataflow.. 작성
+- kubernetes Cluster 공부..
 
 
 ## 7. 소프트웨어 아키텍처
