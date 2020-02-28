@@ -84,6 +84,7 @@
 - [Spring Boot DevTools 클래스로더 이슈](https://brunch.co.kr/@springboot/212)
 - [Spring Assertion](https://brunch.co.kr/@springboot/244)
 - [개발자를 위한 A/B 테스트 해시 샘플링](https://brunch.co.kr/@springboot/283)
+- [레디스 클러스터 Mget 명령은 어떻게 동작하는가?](https://brunch.co.kr/@springboot/359)
 - spring cloud dataflow.. 작성
 - kubernetes Cluster 공부..
 
