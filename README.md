@@ -86,9 +86,12 @@
 - [개발자를 위한 A/B 테스트 해시 샘플링](https://brunch.co.kr/@springboot/283)
 - [레디스 클러스터 Mget 명령은 어떻게 동작하는가?](https://brunch.co.kr/@springboot/359)
 - [Java Collections Heap Dump 분석](https://brunch.co.kr/@springboot/367)
-- spring cloud dataflow.. 작성
-- kubernetes Cluster 공부..
-
+- [레디스 클러스터 Mget 명령은 어떻게 동작하는가?](https://brunch.co.kr/@springboot/359)
+- [Java Collections Heap Dump 분석](https://brunch.co.kr/@springboot/367)
+- [Spring Boot Redis Pub/Sub](https://brunch.co.kr/@springboot/374)
+- [Spring Boot @Async 어떻게 동작하는가?](https://brunch.co.kr/@springboot/401)
+- [주니어 개발자를 위한 단위테스트 샘플 코드 소개](https://brunch.co.kr/@springboot/418)
+- [Spring @EventListener](https://brunch.co.kr/@springboot/422)
 
 ## 7. 소프트웨어 아키텍처
 - [서평-Clean Architecture](https://brunch.co.kr/@springboot/130)
@@ -96,7 +99,7 @@
 - [소프트웨어 개발의 지혜(2) - 기술부채](https://brunch.co.kr/@springboot/173)
 - [웹서비스 백엔드 애플리케이션 아키텍처(1)-클린아키텍처](https://brunch.co.kr/@springboot/228)
 - [Cache-Aside Pattern in Redis](https://brunch.co.kr/@springboot/151)
-- 소프트웨어 개발의 지혜(3) 작성 중..
+- [웹서비스 백엔드 애플리케이션 아키텍처(2)-CQRS](https://brunch.co.kr/@springboot/423)
 
 
 ## 8. JPA
