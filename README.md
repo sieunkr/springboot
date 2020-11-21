@@ -61,6 +61,7 @@
 - [Spring AMQP, RabbitMQ](https://brunch.co.kr/@springboot/298)
 - [Spring Kafka Batch Listener](https://brunch.co.kr/@springboot/322)
 - [Drinking from the Stream](https://brunch.co.kr/@springboot/305)
+- [Spring Cloud Eureka](https://brunch.co.kr/@springboot/451)
 
 
 ## 6. 스프링 및 잡다한 기술 정보
@@ -92,6 +93,7 @@
 - [Spring Boot @Async 어떻게 동작하는가?](https://brunch.co.kr/@springboot/401)
 - [주니어 개발자를 위한 단위테스트 샘플 코드 소개](https://brunch.co.kr/@springboot/418)
 - [Spring @EventListener](https://brunch.co.kr/@springboot/422)
+- [JWT & Spring Security](https://brunch.co.kr/@springboot/491)
 
 ## 7. 소프트웨어 아키텍처
 - [서평-Clean Architecture](https://brunch.co.kr/@springboot/130)
