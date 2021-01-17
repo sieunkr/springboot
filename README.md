@@ -3,6 +3,17 @@
 그동안 작성했던 기술 문서 정리, [카카오 브런치에서의 기술블로그 2년회고](https://brunch.co.kr/@springboot/338)
 
 
+
+## 취준생과 함께하는 스프링부트 백엔드 프로그래밍
+- [취준생을 위한 스프링부트 백엔드 프로그래밍 (1)](https://brunch.co.kr/@springboot/530)
+- [취준생을 위한 스프링부트 백엔드 프로그래밍 (2)](https://brunch.co.kr/@springboot/531)
+- [취준생을 위한 스프링부트 백엔드 프로그래밍 (3)](https://brunch.co.kr/@springboot/532)
+- [취준생을 위한 스프링부트 백엔드 프로그래밍 (4)](https://brunch.co.kr/@springboot/533)
+- 예정
+- 예정
+
+
+
 ## 1. 웹 기반 기술
 - [HTTP 따라잡기(1)](https://brunch.co.kr/@springboot/16) 
 - [HTTP 따라잡기(2)](https://brunch.co.kr/@springboot/19)
