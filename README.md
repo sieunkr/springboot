@@ -9,8 +9,12 @@
 - [취준생을 위한 스프링부트 백엔드 프로그래밍 (2)](https://brunch.co.kr/@springboot/531)
 - [취준생을 위한 스프링부트 백엔드 프로그래밍 (3)](https://brunch.co.kr/@springboot/532)
 - [취준생을 위한 스프링부트 백엔드 프로그래밍 (4)](https://brunch.co.kr/@springboot/533)
-- 예정
-- 예정
+- [취준생을 위한 스프링부트 백엔드 프로그래밍 (5)](https://brunch.co.kr/@springboot/533)
+- [취준생을 위한 스프링부트 백엔드 프로그래밍 (6)](https://brunch.co.kr/@springboot/533)
+- [취준생을 위한 스프링부트 백엔드 프로그래밍 (7)](https://brunch.co.kr/@springboot/542)
+- [취준생을 위한 스프링부트 백엔드 프로그래밍 (8)](https://brunch.co.kr/@springboot/543)
+- [취준생을 위한 스프링부트 백엔드 프로그래밍 (9)](https://brunch.co.kr/@springboot/551)
+- [취준생을 위한 스프링부트 백엔드 프로그래밍 (10)](https://brunch.co.kr/@springboot/557)
 
 
 
@@ -73,6 +77,7 @@
 - [Spring Kafka Batch Listener](https://brunch.co.kr/@springboot/322)
 - [Drinking from the Stream](https://brunch.co.kr/@springboot/305)
 - [Spring Cloud Eureka](https://brunch.co.kr/@springboot/451)
+- [Spring Retry](https://brunch.co.kr/@springboot/580)
 
 
 ## 6. 스프링 및 잡다한 기술 정보
@@ -105,6 +110,7 @@
 - [주니어 개발자를 위한 단위테스트 샘플 코드 소개](https://brunch.co.kr/@springboot/418)
 - [Spring @EventListener](https://brunch.co.kr/@springboot/422)
 - [JWT & Spring Security](https://brunch.co.kr/@springboot/491)
+- [Netflix GraphQL OpenSource](https://brunch.co.kr/@springboot/571)
 
 ## 7. 소프트웨어 아키텍처
 - [서평-Clean Architecture](https://brunch.co.kr/@springboot/130)
@@ -162,6 +168,7 @@
 - [if Kakao 개발자 컨퍼런스 1일차 참석 후기](https://brunch.co.kr/@springboot/254)
 - [대학 특강 후기](https://brunch.co.kr/@springboot/265)
 - [팀 스터디를 위한 GitHub 코드리뷰 요청 가이드](https://brunch.co.kr/@springboot/343)
+- [(서평)자바 개발자를 위한 97가지 제안](https://brunch.co.kr/@springboot/591)
 
 
 추가로 문서 작성 예정
