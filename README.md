@@ -2,7 +2,7 @@
 ## 도메인 주도 설계 스터디
 - [도메인 주도 설계(1) - 도메인 설계란?](https://brunch.co.kr/@springboot/605)
 - [도메인 주도 설계(2) - 엔티티,값객체,애그리거트](https://brunch.co.kr/@springboot/607)
-- [도메인 주도 설계(3) - 서비스] ()
+- [도메인 주도 설계(3) - 서비스](https://brunch.co.kr/@springboot/614)
 - [도메인 주도 설계(4) - 리포지토리] ()
 - 
 
@@ -125,7 +125,7 @@
 
 
 ## 8. JPA
-
+- [JPA 를 다시 공부하면서...잡다한 정리...](https://brunch.co.kr/@springboot/595)
 
 ## 9. NoSQL
 - [ArangoDB Getting Started](https://brunch.co.kr/@springboot/54)
