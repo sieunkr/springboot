@@ -1,11 +1,12 @@
 
-## 도메인 주도 설계 스터디
+## 도메인 주도 설계 스터디 1부
 - [도메인 주도 설계(1) - 도메인 설계란?](https://brunch.co.kr/@springboot/605)
 - [도메인 주도 설계(2) - 엔티티,값객체,애그리거트](https://brunch.co.kr/@springboot/607)
 - [도메인 주도 설계(3) - 서비스](https://brunch.co.kr/@springboot/614)
-- [도메인 주도 설계(4) - 리포지토리] ()
-- 
+- [도메인 주도 설계(4) - 리포지토리](https://brunch.co.kr/@springboot/615)
 
+## 도메인 주도 설계 스터디 2부
+- 미정
 
 ## 취준생과 함께하는 스프링부트 백엔드 프로그래밍
 - [취준생을 위한 스프링부트 백엔드 프로그래밍 (1)](https://brunch.co.kr/@springboot/530)
