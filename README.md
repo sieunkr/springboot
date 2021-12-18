@@ -2,6 +2,7 @@
 ## WebRTC 
 - [1. 코로나 시대에서의 WebRTC](https://brunch.co.kr/@springboot/639)
 - [2. 화상 회의 서비스를 위한, WebRTC 소개](https://brunch.co.kr/@springboot/640)
+- [번역:A Study of WebRTC Security](https://brunch.co.kr/@springboot/664)
 
 
 ## 도메인 주도 설계 스터디 1부
