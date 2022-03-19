@@ -88,7 +88,6 @@
 - [Drinking from the Stream](https://brunch.co.kr/@springboot/305)
 - [Spring Cloud Eureka](https://brunch.co.kr/@springboot/451)
 - [Spring Retry](https://brunch.co.kr/@springboot/580)
-- [Spring Websocket & STOMP](https://brunch.co.kr/@springboot/695)
 
 
 ## 6. 스프링 및 잡다한 기술 정보
@@ -122,6 +121,7 @@
 - [Spring @EventListener](https://brunch.co.kr/@springboot/422)
 - [JWT & Spring Security](https://brunch.co.kr/@springboot/491)
 - [Netflix GraphQL OpenSource](https://brunch.co.kr/@springboot/571)
+- [Spring Websocket & STOMP](https://brunch.co.kr/@springboot/695)
 
 ## 7. 소프트웨어 아키텍처
 - [서평-Clean Architecture](https://brunch.co.kr/@springboot/130)
