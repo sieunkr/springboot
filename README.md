@@ -1,4 +1,12 @@
 
+
+## 소소한 백엔드 개발 이야기 100
+
+- [001. java equals(), hahsCode()](https://brunch.co.kr/@springboot/704)
+- [002. 의존성 주입]
+
+
+
 ## WebRTC 
 - [1. 코로나 시대에서의 WebRTC](https://brunch.co.kr/@springboot/639)
 - [2. 화상 회의 서비스를 위한, WebRTC 소개](https://brunch.co.kr/@springboot/640)
