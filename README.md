@@ -3,7 +3,7 @@
 ## 소소한 백엔드 개발 이야기 100
 
 - [001. java equals(), hahsCode()](https://brunch.co.kr/@springboot/704)
-- [002. 의존성 주입]
+- [002. 의존성 주입](https://brunch.co.kr/@springboot/706)
 
 
 
