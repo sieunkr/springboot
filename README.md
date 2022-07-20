@@ -132,6 +132,7 @@
 - [JWT & Spring Security](https://brunch.co.kr/@springboot/491)
 - [Netflix GraphQL OpenSource](https://brunch.co.kr/@springboot/571)
 - [Spring Websocket & STOMP](https://brunch.co.kr/@springboot/695)
+- [스프링부트 프로메테우스 모니터링](https://brunch.co.kr/@springboot/734)
 
 ## 7. 소프트웨어 아키텍처
 - [서평-Clean Architecture](https://brunch.co.kr/@springboot/130)
