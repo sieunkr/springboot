@@ -4,8 +4,8 @@
 
 - [001. java equals(), hahsCode()](https://brunch.co.kr/@springboot/704)
 - [002. 의존성 주입](https://brunch.co.kr/@springboot/706)
-- [003. 백엔드 개발자] (https://brunch.co.kr/@springboot/760)
-- [004. 캐싱] (https://brunch.co.kr/@springboot/707)
+- [003. 백엔드 개발자](https://brunch.co.kr/@springboot/760)
+- [004. 캐싱](https://brunch.co.kr/@springboot/707)
 
 
 
